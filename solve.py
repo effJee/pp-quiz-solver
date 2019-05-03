@@ -64,7 +64,7 @@ for i in range(len(readyAnswers)):
     try:
         inputBoxes[i].send_keys(readyAnswers[i])
         # time.sleep(0.1)
-    except:  # whats the error name ? I have no idea :)
+    except:  # whats the error name ? I have no idea
         buttons[j].click()
         j += 1
         time.sleep(0.5)
