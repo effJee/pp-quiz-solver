@@ -1,0 +1,36 @@
+łącznie  |lub|  razem  |lub|  wraz
+docelowy
+n
+src  |lub|  źródło  |lub|  tekst źródłowy  |lub|  tablica źródłowa
+src  |lub|  źródłowego  |lub|  z tablicy źródłowej
+co najwyżej  |lub|  maksymalnie
+Ala ma kotka
+Ala ma
+Ala ma pieska
+Ala ma pieska!!!
+0
+-1
+1
+0
+0
+0
+11
+12
+AlaXma kota
+Alakot
+Alakot
+12
+Ala lubi kotka
+Ala lubi koteczka
+Ala lubi malego koteczka
+Ala lubi koteczka
+9
+Ala lubi kotka, a kotek lubi Ale.
+Pierwszy kot 9 i drugi kot 18
+size()  |lub|  length()
+c_str()
+empty()
+0  |lub|  zero
+pos
+0  |lub|  zero
+npos
